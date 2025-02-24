@@ -1,0 +1,16 @@
+const hello =() =>{
+    console.log("hello");
+};
+setTimeout(hello, 3000);
+// function sum(a,b){
+//     console.log(a+b);
+
+// }
+// function mul(a,b){
+//     console.log(a*b);
+    
+// }
+// function cal(a,b,callback){
+//     callback(a,b);
+// }
+// cal(5,6,mul);
