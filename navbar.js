@@ -1,5 +1,6 @@
 const hello =() =>{
-    console.log("hello");
+    console.log("Hello Aman");
+    
 };
 setTimeout(hello, 3000);
 // function sum(a,b){
